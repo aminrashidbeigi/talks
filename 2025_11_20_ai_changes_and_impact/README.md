@@ -28,7 +28,7 @@ center: true
 
 - خروج LLMها از فاز تحقیقاتی
 - استفادهٔ 100 میلیون کاربر از ChatGPT دو ماه بعد از انتشار اولیه
-![[chatgpt_first_news.png]]
+![ChatGPT First News](chatgpt_first_news.png)
 
 ---
 
@@ -36,7 +36,7 @@ center: true
 
 - استفاده از ChatGPT به جای Stackoverflow
 - پیدایش Rubber Duck جدید
-![[new_rubber_duck.jpg]]
+![New Rubber Duck](new_rubber_duck.jpg)
 
 ---
 
@@ -55,9 +55,9 @@ center: true
 ## اولین هشدارهای بازار
 
 - اواخر ۲۰۲۴
-![[zuckerberg_ai_raplace_engineers_news.png]]
+![Zuckerberg AI Replace Engineers](zuckerberg_ai_raplace_engineers_news.png)
 
-![[salesforce_hiring_freeze_2025.png]]
+![Salesforce Hiring Freeze 2025](salesforce_hiring_freeze_2025.png)
 
 ---
 
@@ -72,28 +72,28 @@ center: true
   - اجرای تست
   - اجرای Validation
 - پیدایش Vibe Coding
-![[andrej_karpathy_vibe_coding_tweet.png]]
+![Andrej Karpathy Vibe Coding Tweet](andrej_karpathy_vibe_coding_tweet.png)
 
 ---
 
 ## Matcha.Gift
 
 اولین پروژهٔ من به صورت Vibe Coding در تابستان ۲۰۲۵
-![[matcha_gift.png]]
+![Matcha Gift](matcha_gift.png)
 
 ---
 
 ## موج مجدد تعدیل‌ها
 
-![[amazon_layoff_2025.png]]
+![Amazon Layoff 2025](amazon_layoff_2025.png)
 
-![[tech_layoff_2025.png]]
+![Tech Layoff 2025](tech_layoff_2025.png)
 
 ---
 
 # حباب بازار سهام؟
 
-![[bloomberg_nvidia_investments.png]]
+![Bloomberg Nvidia Investments](bloomberg_nvidia_investments.png)
 
 ---
 
